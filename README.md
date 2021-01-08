@@ -1,13 +1,3 @@
-### Hi there 👋
-
-My name is Fahri Dağdaduramaz , I'm based in Turkey, Hatay/Antakya.
-My Connection with the Software It started about three years ago thanks to a relative of mine, and still I continue in this process and I am on the way to improve myself.
-
-## 💼 Job
-
-I do not have any professions at the moment, but I have taken a step to study.
-
-## 🧠 Know / Using
 
 <img src="https://github.com/github/explore/blob/master/topics/aspnet/aspnet.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/azure/azure.png?raw=true" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/css/css.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/linux/linux.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/npm/npm.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/nuget/nuget.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/powershell/powershell.png?raw=true" height="32" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/terminal/terminal.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png?raw=true" height="32" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png?raw=true" height="32" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?raw=true" height="32" />
 
